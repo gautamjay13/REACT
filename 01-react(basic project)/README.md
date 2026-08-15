@@ -1,16 +1,55 @@
-# React + Vite
+# React + CSS Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly web project built using **React.js** and **CSS**.
+This project focuses on creating a clean and basic user interface while practicing React components, styling, and image integration.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="1440" height="856" alt="Product Page" src="https://github.com/user-attachments/assets/fbfec417-4a23-482c-9505-d0f20125e944" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React.js** – For building the user interface
+* **CSS** – For styling and layout
+* **JavaScript** – For functionality
+* **HTML/JSX** – For structuring the components
+
+## ✨ Features
+
+* Simple and clean user interface
+* Built with React components
+* Custom CSS styling
+* Image integration
+* Responsive layout
+* Beginner-friendly project structure
+
+
+```
+
+## 🎯 Purpose
+
+This project was created to practice:
+
+* React fundamentals
+* Component-based development
+* CSS styling
+* Image handling in React
+* Basic responsive web design
+* Git and GitHub workflow
+
+## 👨‍💻 Author
+
+**Jay Gautam**
+
+* GitHub: https://github.com/gautamjay13
+* LinkedIn: https://www.linkedin.com/in/gautamjay13/
+
+## ⭐ Support
+
+If you like this project, consider giving the repository a **star ⭐** on GitHub.
+
+
+
+
