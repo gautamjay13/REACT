@@ -1,0 +1,8 @@
+.Btn{
+    background-color: red;
+    padding: 10px 20px;
+    margin: 10px;
+    width: fit-content;
+    color: white;
+    border-radius: 10px;
+}
