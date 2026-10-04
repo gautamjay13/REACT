@@ -3,11 +3,7 @@ import Button from './component/button'
 
 const App = () => {
   return (
-    <div>
-      <h1>
-        <Button/>
-      </h1>
-    </div>
+    <div className='bg-red-500'>App</div>
   )
 }
 
